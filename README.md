@@ -12,7 +12,7 @@ Currently:
 - Personal Website (link)
 
 ## 🧠 Technical Skills
-**Programming Languages:** Python, SQL, Java, JavaScript, TypeScript, C, R 
+**Programming Languages:** Python • SQL • Java • JavaScript • TypeScript • C • R 
 
 **Data Engineering:** Power Query, ETL, Medallion Architecture, Data Modelling 
 
