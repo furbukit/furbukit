@@ -14,21 +14,21 @@ Currently:
 ## 🧠 Technical Skills
 **Programming Languages:** Python • SQL • Java • JavaScript • TypeScript • C • R 
 
-**Data Engineering:** Power Query, ETL, Medallion Architecture, Data Modelling 
+**Data Engineering:**      Power Query • ETL • Medallion Architecture • Data Modelling 
 
-**Cloud & DevOps:** AWS (S3, Lambda, EC2), Azure (App Service, DynamoDB) 
+**Cloud & DevOps:**        AWS (S3 • Lambda • EC2) • Azure (App Service • DynamoDB) 
 
-**AI/ML:** TensorFlow, LangChain, LLM, Deep Learning, Generative AI 
+**AI/ML:**                 TensorFlow • LangChain • LLM • Deep Learning • Generative AI 
 
-**Databases**: MySQL, PostgreSQL
+**Databases**:             MySQL • PostgreSQL
 
-**Data Visualisation:** Power BI
+**Data Visualisation:**    Power BI
 
-**Web Frameworks**: ReactJS, Vue.js, Streamlit, Power Apps
+**Web Frameworks**:        ReactJS • Vue.js • Streamlit • Power Apps
 
-**Automation Tools**: Power Automate
+**Automation Tools**:      Power Automate
 
-**Other Tools**: Git, Docker
+**Other Tools**: Git • Docker
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/matthew-walsh-75543a17b/) | Website
