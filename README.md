@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Matt 👋
 
-<!--
-**furbukit/furbukit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & AI Consultant | Machine Learning | Data Engineering
 
-Here are some ideas to get you started:
+Currently:
+- Consultant at Deloitte
+- Interested in AI, analytics engineering, and applied ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+- Customer Analytics Dashboard (link)
+- ML Prediction Pipeline (link)
+- Personal Website (link)
+
+## 🧠 Skills
+Python • SQL • AWS • ML • Data Engineering • Visualisation
+
+## 📫 Contact
+LinkedIn | Website
